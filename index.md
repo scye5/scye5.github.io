@@ -82,5 +82,5 @@
 
 飞去！飞去！——
 
-[TESTLINK](https://github.com/scye5/scye5.github.io/main/testmdlink.md)
+[TESTLINK](https://github.com/scye5/scye5.github.io/testmdlink.md)
 
